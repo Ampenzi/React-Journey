@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Raila Odinga",
+      "body": "Raila Odinga was born at Maseno Church Missionary Society Hospital, in Maseno, Kisumu District, Nyanza Province on 7 January 1945 to the late Mary Ajuma Odinga and the late Jaramogi Oginga Odinga, the first Vice President of the Republic of Kenya.",
+      "author": "Andrew"
+    },
+    {
+      "id": 2,
+      "title": "Willian Ruto",
+      "body": "Dr William Samoei Arap Ruto (born 21 December 1966) better known as William Ruto, is a Kenyan politician. Currently, he is the Deputy President of Kenya, a position he has held since 2013. He served as the Acting President of Kenya between 6 and 8 October 2014 when President Uhuru Kenyatta was at the International Criminal Court (ICC), in The Hague, Netherlands. He previously served in various ministerial positions, including the Ministries of Home Affairs, Agriculture, and Higher Education Science and Technology. He was the Secretary General of the Kenya Africa National Union (KANU), the former ruling political party, and the MP for Eldoret North Constituency between December 1997 and January 2013. He won the seat in the 1997 elections after defeating Reuben Chesire. He was appointed to the position of Assistant Minister in the Office of the President by President Daniel arap Moi in 1998. He was promoted to be Minister for Home Affairs in August 2002. Ruto has also previously served as the Chairman of the Parliamentary Select Committee on Constitutional Reforms in the 9th Parliament.",
+      "author": "Liza"
+    },
+    {
+      "id": 3,
+      "title": "Kalonzo Musyoka",
+      "body": "Stephen Kalonzo Musyoka (born 24 December 1953) is a Kenyan politician who was the tenth Vice-President of Kenya from 2008 to 2013. Musyoka served in the government under President Daniel arap Moi and was Minister for Foreign Affairs from 1993 until 1998; subsequently, under President Mwai Kibaki, he was Minister of Foreign Affairs again from 2003 to 2004, then Minister of the Environment from 2004 to 2005.[1] He was an unsuccessful candidate in the 2007 presidential election, after which he was appointed as Vice-President by Kibaki in January 2008.Musyoka is the party leader of the Wiper Democratic Movement (formerly Orange Democratic Movement-Kenya). He also serves as Chief Commissioner for The Kenya Scouts Association",
+      "author": "Israel"
+    },
+    {
+      "title": "MUsalia Mudavadi",
+      "body": "Wycliffe Musalia Mudavadi (born 21 September 1960, Sabatia, Vihiga District) is a Kenyan politician, who served as the seventh Vice President of Kenya in 2002 and as Deputy Prime Minister from 2008- 2012 May when he resigned officially to join the presidential race. He is the current Party Leader of Amani National Congress after decamping from the Orange Democratic Movement (ODM) led by the prime minister Raila Odinga in 2012 where before his resignation he served as the deputy party leader. He was third in the 2013 Kenyan general election. Mudavadi is among the top contenders for the 2022 Kenya presidential election",
+      "author": "Okemwa",
+      "id": 4
+    },
+    {
+      "title": "Barack Obama",
+      "body": "Barack Hussein Obama II (/bəˈrɑːk huːˈseɪn oʊˈbɑːmə/ (audio speaker iconlisten) bə-RAHK hoo-SAYN oh-BAH-mə;[1] born August 4, 1961) is an American politician, lawyer, and author who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, Obama was the first African-American president of the United States.[2] He previously served as a U.S. senator from Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.\n\nObama was born in Honolulu, Hawaii. After graduating from Columbia University in 1983, he worked as a community organizer in Chicago. In 1988, he enrolled in Harvard Law School, where he was the first black president of the Harvard Law Review. After graduating, he became a civil rights attorney and an academic, teaching constitutional law at the University of Chicago Law School from 1992 to 2004. Turning to elective politics, he represented the 13th district in the Illinois Senate from 1997 until 2004, when he ran for the U.S. Senate. Obama received national attention in 2004 with his March Senate primary win, his well-received July Democratic National Convention keynote address, and his landslide November election to the Senate. In 2008, a year after beginning his campaign, and after a close primary campaign against Hillary Clinton, he was nominated by the Democratic Party for president. Obama was elected over Republican nominee John McCain in the general election and was inaugurated alongside his running mate Joe Biden, on January 20, 2009. Nine months later, he was named the 2009 Nobel Peace Prize laureate, a decision that drew a mixture of praise and criticism.",
+      "author": "Dancun",
+      "id": 5
+    },
+    {
+      "title": "Michael Jackson",
+      "body": "Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter and dancer. Dubbed the \"King of Pop\", he is regarded as one of the most significant cultural figures of the 20th century. Over a four-decade career, his contributions to music, dance and fashion, along with his publicized personal life, made him a global figure in popular culture. Jackson influenced artists across many music genres; through stage and video performances, he popularized complicated dance moves such as the moonwalk, to which he gave the name, as well as the robot. He is the most awarded individual music artist in history.",
+      "author": "Dancun",
+      "id": 6
+    },
+    {
+      "title": "Lucky Dube",
+      "body": "Lucky Philip Dube (pronounced duu-beh;[1] 3 August 1964 – 18 October 2007) was a South African reggae musician and Rastafarian. He recorded 22 albums in Zulu, English, and Afrikaans in a 25-year period and was South Africa's biggest-selling reggae artist.[2][3] Dube was murdered in the Johannesburg suburb of Rosettenville on the evening of 18 October 2007",
+      "author": "Okemwa",
+      "id": 7
+    }
+  ]
+}
