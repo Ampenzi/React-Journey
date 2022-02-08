@@ -33,12 +33,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-
-### `json-server`
-To access the data in data/db.json:
-1. After running the npm install command
-2. Open new terminal window and run the command `npx json-server --watch data/db.json --port 8000`
-3. Run the npm start command and navigate to the localhost port 3000 url
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
@@ -74,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `json-server`
+To access the data in data/db.json:
+1. After running the npm install command
+2. Open new terminal window and run the command `npx json-server --watch data/db.json --port 8000`
+3. Run the npm start command and navigate to the localhost port 3000 url
